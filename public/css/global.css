@@ -1,7 +1,7 @@
 /*styling navbar*/
 .nav{
     height: 55px;
-    background: darkred;
+    background: #c82333;
 }
 
 #companyName{
@@ -26,7 +26,7 @@
 
 .nav ul li{
     display: inline-block;
-    margin-top: 0;
+    margin-top: 15px;
 }
 
 .nav ul li a{
@@ -36,3 +36,4 @@
 }
 
 /*styling the footer section*/
+
