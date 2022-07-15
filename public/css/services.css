@@ -1,0 +1,43 @@
+/*background img*/
+.services-page{
+    /*font-family: "Roboto Thin", "Monotype Corsiva", monospace;*/
+    background: url("../gallery/bgsofostech.png");
+    background-size: cover;
+    height: 98vh;
+    /*box-shadow: orangered 2px 2px 0 2px;*/
+}
+.services-page .services-content{
+    margin: 100px auto 0 auto;
+    text-align: center;
+}
+
+.services-page .services-content h1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: red;
+}
+
+.services-content .services-card ul{
+    padding: 0;
+}.services-content .services-card ul li {
+     list-style: none;
+     display: inline-block;
+     margin: 20px;
+     width: 320px
+ }
+
+
+.services-content .services-card ul li img{
+    width: 320px;
+    height: 220px;
+    box-shadow: yellow 0 1px 0 1px;
+    border-radius: 2px;
+}
+
+.services-content .services-card ul li p{
+    font-size: 20px;
+    margin-top: 10px;
+    text-align: justify;
+    font-family: 'Lato', ui-monospace;
+    color: snow;
+}

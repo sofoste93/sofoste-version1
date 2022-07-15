@@ -1,0 +1,38 @@
+/*styling navbar*/
+.nav{
+    height: 55px;
+    background: darkred;
+}
+
+#companyName{
+    margin-bottom: auto;
+    padding: 10px 0 15px 20px;
+    margin-top: 5px;
+}
+
+.nav div{
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    padding: 15px;
+    font-size: 20px;
+    color: snow;
+}
+
+.nav ul{
+    position: absolute;
+    right: 5px;
+}
+
+.nav ul li{
+    display: inline-block;
+    margin-top: 0;
+}
+
+.nav ul li a{
+    color: white;
+    padding: 5px 10px;
+    margin: 10px 5px;
+}
+
+/*styling the footer section*/

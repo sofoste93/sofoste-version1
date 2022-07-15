@@ -1,0 +1,36 @@
+.contact-page .contact-content{
+    margin: 80px auto 0 auto;
+    text-align: center ;
+}
+
+.contact-page .contact-content h1{
+    font-family: Roboto, sans-serif;
+    color: orangered;
+}
+
+.contact-page .contact-content .address-holder{
+    font-family: 'Lato', sans-serif;
+    color: #adb5bd;
+}
+
+/*
+* Meta tags:
+* 1 - keywords which describe the page
+* 2 - author of the document
+* 3 - description of the page
+* 4 - the character set used
+
+***************************************
+** These meta tags are used by search engines, but these tags are important
+** for SEO (Search Engine Optimization)
+** Meta tags are also used by browsers
+** a viewport meta tag was introduced in HTML5 which tells the browser to scale
+** the website by the value provided
+*/
+.contact-page{
+    font-family: Consolas, monospace;
+    /*font-family: "Roboto Thin", "Monotype Corsiva", monospace;*/
+    background: url("../gallery/bgsofostech.png");
+    background-size: cover;
+    height: 98vh;
+}
