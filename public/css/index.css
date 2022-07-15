@@ -10,7 +10,7 @@
 .home .text-container{
     font-family: "Roboto Thin", monospace;
     font-weight: bold;
-    color: red;
+    color: yellowgreen;
     text-align: center;
     display: flex;
     align-items: center;
@@ -21,7 +21,7 @@
 
 .home .text-container div h1{
     /*box-shadow: orange 2px 2px 0 2px;*/
-    box-shadow: 1px 5px 1px 1px snow;
+    box-shadow: 1px 3px 1px 3px navajowhite;
     font-size: 3em;
     opacity: 0.9;
     border-radius: 50px;
