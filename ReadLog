@@ -1,0 +1,28 @@
+****************************************************************
+************************DEPLOYMENT INFO*************************
+****************************************************************
+2:54:51 PM: Build ready to start
+2:54:57 PM: build-image version: 0e2f4c52031ab562db66aec633308326e3b108d0 (focal)
+2:54:57 PM: build-image tag: focal
+2:54:57 PM: buildbot version: 7b804ef49dc9bfd8ae6e08b25d297f8eb94d3bc5
+2:54:58 PM: Fetching cached dependencies
+2:54:58 PM: Failed to fetch cache, continuing with build
+2:54:58 PM: Starting to prepare the repo for build
+2:54:58 PM: No cached dependencies found. Cloning fresh repo
+2:54:58 PM: git clone https://github.com/sofoste93/sofostech-version1
+2:54:58 PM: Preparing Git Reference refs/heads/main
+2:54:59 PM: Parsing package.json dependencies
+2:55:00 PM: No build steps found, continuing to publishing
+2:55:00 PM: Starting to deploy site from '/'
+2:55:00 PM: Creating deploy tree
+2:55:00 PM: Creating deploy upload records
+2:55:00 PM: 14 new files to upload
+2:55:00 PM: 0 new functions to upload
+2:55:01 PM: Starting post processing
+2:55:01 PM: Post processing - HTML
+2:55:01 PM: Post processing - header rules
+2:55:01 PM: Uploading Cache of size 6.7MB
+2:55:01 PM: Post processing - redirect rules
+2:55:02 PM: Post processing done
+2:55:02 PM: Finished processing build request in 4.395637911s
+2:55:05 PM: Site is live ✨
