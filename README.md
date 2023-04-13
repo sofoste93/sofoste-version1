@@ -7,7 +7,8 @@ A simple static website
 >https://62d1639be5d6e4137064ce11--benevolent-froyo-e3632c.netlify.app/
 >
 > CONTRIBUTIONS
-> - Stephane Sob Fouodji
+> - Stephane Sob F.
+> - Netlify
 > - Programming Hub
 > - @Sofoste93
 > 
