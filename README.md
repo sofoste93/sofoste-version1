@@ -1,10 +1,10 @@
-# sofostech-version1
+# sofoste-version1
 A simple static website
 
 
 >
 ># PLEASE CHECK OUT THE RESULT HERE!
->https://sofostemusic.netlify.app/
+>https://sofoste.netlify.app/
 >
 > CONTRIBUTIONS
 > - Stephane Sob F.
