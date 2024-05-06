@@ -4,7 +4,7 @@ A simple static website
 
 >
 ># PLEASE CHECK OUT THE RESULT HERE!
->https://sofostech.netlify.app/
+>https://sofostemusic.netlify.app/
 >
 > CONTRIBUTIONS
 > - Stephane Sob F.
